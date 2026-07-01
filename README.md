@@ -1,9 +1,11 @@
-<h1 align="center">Hi there, I'm Buddhi Rashmika 👋</h1>
+<p align="center">
+  <img src="./pcb_banner.svg" alt="Buddhi Rashmika — Embedded Systems, Robotics, AI/ML" width="100%" />
+</p>
 
 <h3 align="center">Electronic & Telecommunication Engineering Undergraduate | Robotics & Embedded Systems | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+autonomous+robots+%F0%9F%A4%96;Designing+PCBs+%26+embedded+systems+%E2%9A%99%EF%B8%8F;Exploring+AI%2FML+for+edge+devices+%F0%9F%A7%A0;3rd+Year+at+University+of+Moratuwa+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+autonomous+robots+%F0%9F%A4%96;Designing+PCBs+%26+embedded+systems+%E2%9A%99%EF%B8%8F;Exploring+AI%2FML+for+edge+devices+%F0%9F%A7%A0;3rd+Year+at+University+of+Moratuwa+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <p align="center">
